@@ -27,7 +27,7 @@ a simple calendar application that allows a user to save events for each hour of
 ```
 
 ## Usage
-Link to the deployed page: 
+Link to the deployed page: https://mluron-arxfjs.github.io/WorkDay_Scheduler/
 - This workday calendar display work hours of the day 8AM - 5PM. This calendar is desktop and mobile compatible.
 - On the top of the page, current day and date is diplayed.
 - Each time block is color coded to indicate whether it occurs in the past(gray), present(red), or future(green).
@@ -35,7 +35,7 @@ Link to the deployed page:
 - The User has the option to delete the activities at the end of Day using the Delete Button.
 
 ## Screenshot
--!![Screenshot](./assets/images/WorkDay%20Scheduler.png)
+-![Screenshot](./assets/images/WorkDay%20Scheduler.png)
 
 ## Contact me
 - [GitHub](https://github.com/mluron-ArxFjs)
